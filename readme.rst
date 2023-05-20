@@ -1,3 +1,7 @@
+
+usario admin: juana@gmail.com 
+password: 123
+
 ###################
 What is CodeIgniter
 ###################
