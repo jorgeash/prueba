@@ -36,6 +36,10 @@
                     caption: 'Id',
                     width: 10,
                 }, {
+                    dataField: 'nombre',
+                    caption: 'Usuario',
+                    width: 120,
+                },{
                     dataField: 'tipo_pago',
                     caption: 'Tipo pago',
                     width: 120,
